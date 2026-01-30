@@ -1,4 +1,4 @@
-# archetype
+# ARC-FTNM/Archetype
 
 ## License
 
